@@ -78,7 +78,7 @@ public class RockPaperScissors {
             return 1; //user wins
         }
         else {
-            return -1;
+            return -1; // cpu wins
         }
     }
 }
